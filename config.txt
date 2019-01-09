@@ -1,6 +1,6 @@
 host=http://192.168.125.21/
-username=201512300144
-password=1369198319
+username=
+password=
 type=1
 loginpage=http://192.168.125.21/a70.htm
 logoutpage=http://192.168.125.21/F.htm
